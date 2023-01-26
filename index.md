@@ -5,17 +5,17 @@ I am a PhD student in English at the University of Miami. I study disability rep
 
 ## Contact information
 mxd4207@miami.edu
-@mc_donabella
+<br>@mc_donabella
 
 ## Education 
 
 B.A. SUNY College at Oswego, Sociology & Creative Writing
-M.A. University at Buffalo, SUNY
+<br>M.A. University at Buffalo, SUNY
 
 ## Digital Projects 
 
 [coursework](mdonabella.github.io)
-[political work](www.grovedems.org)
+<br>[political work](www.grovedems.org)
 
 
 > Write here a quote of an author you love! 
