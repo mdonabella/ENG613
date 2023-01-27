@@ -1,4 +1,7 @@
-# DH Log Spring '23
+---
+layout: default
+title: #DH Log Spring '23
+---
 
 ## About me 
 I am a PhD student in English at the University of Miami. I study disabled futures & activism in contemporary literature and new media.
