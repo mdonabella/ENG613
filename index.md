@@ -9,8 +9,8 @@ mxd4207@miami.edu
 
 ## Education 
 
-B.A. SUNY College at Oswego, Sociology & Creative Writing
-<br>M.A. University at Buffalo, SUNY
+B.A., Sociology & Creative Writing, SUNY College at Oswego
+<br>M.A., English, University at Buffalo, SUNY
 
 ## Digital Projects 
 
