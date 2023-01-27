@@ -1,6 +1,6 @@
 ---
 layout: default
-title: #DH Log Spring '23
+title: Micaela Donabella
 ---
 
 ## About me 
