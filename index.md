@@ -10,7 +10,7 @@ mxd4207@miami.edu
 ## Education 
 
 B.A., Sociology & Creative Writing, SUNY College at Oswego
-<br>M.A., [English](https://www.proquest.com/docview/2384868038?pq-origsite=gscholar&fromopenview=true), University at Buffalo, SUNY
+<br>[M.A., English](https://www.proquest.com/docview/2384868038?pq-origsite=gscholar&fromopenview=true), University at Buffalo, SUNY
 
 ## Digital Projects 
 
