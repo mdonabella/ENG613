@@ -5,7 +5,7 @@ I am a PhD student in English at the University of Miami. My focus is currently 
 
 ## Contact information
 mxd4207@miami.edu
-<br>@mc_donabella
+<br>[@mc_donabella](https://mobile.twitter.com/mc_donabella)
 
 ## Education 
 
