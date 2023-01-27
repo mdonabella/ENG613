@@ -7,7 +7,7 @@ title: #DH Log Spring '23
 I am a PhD student in English at the University of Miami. I study disabled futures & activism in contemporary literature and new media.
 
 ## Contact information
-mxd4207@miami.edu
+[mxd4207@miami.edu](mailto:mxd4207@miami.edu)
 <br>[@mc_donabella](https://mobile.twitter.com/mc_donabella)
 
 ## Education 
