@@ -1,7 +1,7 @@
 # Micaela Donabella
 
 ## About me 
-I am a PhD student in English at the University of Miami. My focus is currently in disability representation and activism in contemporary literature and new media.
+I am a PhD student in English at the University of Miami. I study disabled futures & activism in contemporary literature and new media.
 
 ## Contact information
 mxd4207@miami.edu
