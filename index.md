@@ -4,7 +4,7 @@ title: Micaela Donabella
 ---
 
 ## About me 
-I am a PhD student in English at the University of Miami. I study disabled futures & activism in contemporary literature and new media.
+I am a second-year PhD student in English at the University of Miami. My primary research intersts include disability studies, digital humanities, and contemporary poetry and new media. Prior to beginning my PhD, I worked as an educator in various K-12 settings. My current First-Year Writing course at the University of Miami is focused around [disability representation in the media](https://docs.google.com/document/d/1gAPsGgOQXwm27klt54E6ZRhkXUorGHwwNogollGhmbU/edit?usp=sharing). 
 
 ## Contact information
 [mxd4207@miami.edu](mailto:mxd4207@miami.edu)
@@ -18,5 +18,5 @@ B.A., Sociology & Creative Writing, SUNY College at Oswego
 ## Digital Projects 
 
 [coursework](https://mdonabella.github.io)
-<br>[political work](https://www.grovedems.org)
+<br>[organizational work](https://www.grovedems.org)
 
