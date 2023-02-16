@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Micaela Donabella
+title: About Me
 ---
 
 # About Me
