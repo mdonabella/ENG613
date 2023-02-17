@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Micaela Donabella
+title: Home
 ---
 
 ## Spring 2023 Porfolio
